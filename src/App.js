@@ -10,9 +10,6 @@ import SentBox from "./Components/RecivedMails/Sent";
 import { inboxActions } from "./Components/Redux/Inbox";
 import ComposeMail from "./Components/ComposeEmail/Compose";
 import ReadSent from "./Components/RecivedMails/SentMAilsRead";
-
-
-
 import { Route,Redirect,Routes, Link} from "react-router-dom";
 
 

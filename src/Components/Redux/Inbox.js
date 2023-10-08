@@ -8,7 +8,6 @@ const initialState = {
   sentemails:[],
   unRead:0
 };
-
 const inboxSlice = createSlice({
   name: "inbox",
   initialState: initialState,
